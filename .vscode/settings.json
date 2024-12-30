@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "pem_x509_info_read_bionotuse": "cpp",
+        "initializer_list": "cpp",
+        "regex": "cpp",
+        "utility": "cpp",
+        "any": "cpp",
+        "memory": "cpp",
+        "memory_resource": "cpp",
+        "semaphore": "cpp",
+        "shared_mutex": "cpp",
+        "stop_token": "cpp",
+        "random": "cpp",
+        "future": "cpp",
+        "optional": "cpp",
+        "atomic": "cpp"
+    }
+}
